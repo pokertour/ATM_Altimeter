@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="ATM_Altimeter">
-    <Package name="Kestrel4500">
+    <Package name="Altimeter">
         <Key ID="STR_Altimeter_Name">
             <English>Altimeter</English>
             <French>Altimètre</French>
