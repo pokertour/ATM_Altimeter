@@ -4,30 +4,37 @@
         <Key ID="STR_Altimeter_Name">
             <English>Altimeter</English>
             <French>Altimètre</French>
+            <German>Höhenmesser</German>
         </Key>
         <Key ID="STR_Altimeter_Description">
             <English>The Military altimeter give you a bearing, The ASL(Altitude Sea Level) and the Hour.</English>
             <French>L'altimètre militaire vous donne un azimut, votre altitude par rapport au niveau de la mer et l'heure.</French>
+            <German>Das militärische Höhenmessgerät gibt die Höhe über dem Meeresspiegel, die Blickrichtung und die Uhrzeit.</German>
         </Key>
         <Key ID="STR_Altimeter_KeyDisplay">
             <English>Show/Hide Altimeter</English>
             <French>Afficher/Cacher Altimètre</French>
+            <German>Anzeigen/Verstecken des Höhenmessers</German>
         </Key>
         <Key ID="STR_Altimeter_KeyMove">
             <English>Move Altimeter</English>
             <French>Déplacer l'altimètre</French>
+            <German>Bewege den Höhenmesser</German>
         </Key>
         <Key ID="STR_Altimeter_MoveText">
             <English>Move Me. Press Esc to cancel.</English>
             <French>Me déplacer. Appuyer sur Esc pour annuler.</French>
+            <German>Bewege mich. Drücke Esc um Abzubrechen.</German>
         </Key>
         <Key ID="STR_Altimeter_MoveButtonText">
             <English>Validate the position.</English>
             <French>Valider la position.</French>
+            <German>Bestätige die Position.</German>
         </Key>
         <Key ID="STR_Altimeter_InvalidPos">
             <English>Invalid position.</English>
             <French>Position non valide.</French>
+            <German>Nicht valide Position.</German>
         </Key>
     </Package>
 </Project>
