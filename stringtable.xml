@@ -7,8 +7,8 @@
             <German>Höhenmesser</German>
         </Key>
         <Key ID="STR_Altimeter_Description">
-            <English>The Military altimeter give you a bearing, The ASL(Altitude Sea Level) and the Hour.</English>
-            <French>L'altimètre militaire vous donne un azimut, votre altitude par rapport au niveau de la mer et l'heure.</French>
+            <English>The Military altimeter give you a bearing, The ASL(Altitude Sea Level), MapGrid, Stopwatch and the Hour.</English>
+            <French>L'altimètre militaire vous donne un azimut, votre altitude par rapport au niveau de la mer, votre position géographique, un chronomètre et l'heure.</French>
             <German>Das militärische Höhenmessgerät gibt die Höhe über dem Meeresspiegel, die Blickrichtung und die Uhrzeit.</German>
         </Key>
         <Key ID="STR_Altimeter_KeyDisplay">
@@ -20,6 +20,18 @@
             <English>Move Altimeter</English>
             <French>Déplacer l'altimètre</French>
             <German>Bewege den Höhenmesser</German>
+        </Key>
+		<Key ID="STR_Altimeter_SelectMod">
+            <English>Change Display</English>
+            <French>Changer Affichage</French>
+        </Key>
+		<Key ID="STR_Altimeter_StartStopTime">
+            <English>Start/break StopWatch</English>
+            <French>Démarrer/Pause Chronomètre</French>
+        </Key>
+		<Key ID="STR_Altimeter_ResetTime">
+            <English>Reset StopWatch</English>
+            <French>Remettre à zéro le Chronomètre</French>
         </Key>
         <Key ID="STR_Altimeter_MoveText">
             <English>Move Me. Press Esc to cancel.</English>
