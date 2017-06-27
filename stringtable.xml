@@ -24,14 +24,17 @@
 		<Key ID="STR_Altimeter_SelectMod">
             <English>Change Display</English>
             <French>Changer Affichage</French>
+	    <German>Anzeige wechseln</German>
         </Key>
 		<Key ID="STR_Altimeter_StartStopTime">
-            <English>Start/break StopWatch</English>
+            <English>Start/Pause StopWatch</English>
             <French>Démarrer/Pause Chronomètre</French>
+	    <German>Starten/Pausieren der Stopuhr</German>	
         </Key>
 		<Key ID="STR_Altimeter_ResetTime">
             <English>Reset StopWatch</English>
             <French>Remettre à zéro le Chronomètre</French>
+	    <German>Stopuhr zurücksetzen</German>
         </Key>
         <Key ID="STR_Altimeter_MoveText">
             <English>Move Me. Press Esc to cancel.</English>
